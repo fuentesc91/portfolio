@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="74mm" height="52mm" version="1.1" viewBox="0 0 74 52" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m31.765 21.945h-10.729v3.3073h8.599v4.101h-14.155v-11.906l16.27-0.02338z" stroke="#000" stroke-width=".26458px"/>
+ <g stroke-width=".26458">
+  <rect x="15.435" y="30.344" width="5.6127" height="4.8175" stroke="#000" stroke-linejoin="round"/>
+  <text x="31.116985" y="29.633776" fill="#000000" font-family="sans-serif" font-size="7.0556px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="31.116985" y="29.633776" font-size="7.0556px" stroke-width=".26458">ARLOS</tspan></text>
+  <text x="22.647131" y="34.97493" fill="#000000" font-family="sans-serif" font-size="5.6444px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="22.647131" y="34.97493" font-size="5.6444px" stroke-width=".26458">UENTES</tspan></text>
+ </g>
+</svg>
